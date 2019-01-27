@@ -55,7 +55,7 @@ export default {
       bottom 0
       line-height .6rem
       color #fff
-      background-image linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, .8))
+      background-image linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, .48))
       .banner-title
         flex 1
         font-size .32rem
@@ -66,7 +66,7 @@ export default {
         line-height .32rem
         height .32rem
         border-radius .2rem
-        background-color rgba(0, 0, 0, .8)
+        background-color rgba(0, 0, 0, .48)
         font-size .24rem
         .banner-icon
           font-size .24rem
